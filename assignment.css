@@ -1,0 +1,36 @@
+.mytittle{
+    color: violet;
+    background: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-shadow: green;
+}
+.home{
+    color:darkgrey ;
+    background: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-shadow: green; 
+}
+.sales{
+    color: violet;
+    background: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-shadow: green; 
+}
+.mybackground{
+    background: blue;
+    color: purple;
+    height: 1250px;
+    window
+}
+}
+.mylabel{
+    border: 1px inset: #0076ff;
+    border-radius:7px;
+    background:green;
+    color: #ffd800;
+    padding-left: 4px;
+    margin-right:3px;
+}
